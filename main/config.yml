@@ -1,0 +1,7 @@
+development:
+  bootstrap_servers: "dev.kafka.server:9092"
+  group_id: "dev-consumer-group"
+
+production:
+  bootstrap_servers: "prod.kafka.server:9092"
+  group_id: "prod-consumer-group"
