@@ -51,9 +51,12 @@ func main(){
 	// Precision printing of the type float
 	fmt.Printf("here is %0.1f \n", cameo)
 
-	//sprintf
+	//sprintf: Assigns formatted stirng to a variable
 
 	var formattedString = fmt.Sprintf("My %v is not in the movie",cameo)
 
 	fmt.Println(formattedString)
+
+	// There are many other format specifiers
+	
 }
