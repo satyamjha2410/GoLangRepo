@@ -1,1 +1,2 @@
-(int i =0 ;
+ []string{"Ram", "Krishna" "Shiva", "Hanuman"}
+	repeatNa
